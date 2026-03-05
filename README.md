@@ -1,4 +1,4 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AyodejiObienu/count.svg" alt="Visitor's Count" />
+  <p>Visitors</p>
+  <img src="https://profile-counter.glitch.me/AyodejiObienu/count.svg" />
 </div>
