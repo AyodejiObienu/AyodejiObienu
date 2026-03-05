@@ -45,10 +45,6 @@ Machine learning model that detects duplicate or spam complaints in a university
 **Image Reuse Detector**
 Computer vision tool that detects when the same complaint image is uploaded multiple times.
 
-
-
-[![AyodejiObienu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyodejiObienu)](https://github.com/AyodejiObienu)
-
 Connect with me
 
 - Email: ayodejiobienu@gmail.com
