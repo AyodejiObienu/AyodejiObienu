@@ -47,7 +47,7 @@ Computer vision tool that detects when the same complaint image is uploaded mult
 
 
 
-![Ayodeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyodejiObienu&show_icons=true)
+[![AyodejiObienu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyodejiObienu)](https://github.com/AyodejiObienu)
 
 Connect with me
 
