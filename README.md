@@ -4,7 +4,7 @@ Hi 👋, I'm Obienu Baubajisos Ayodeji
 </h1>
 
 <p align="center">
-Engineering major | AI & ML | Founder of ResoBridge
+Engineering major | AI & ML | Founder of Resobridge
 </p>
 
 ---
@@ -34,7 +34,7 @@ Git
 
 Projects
 
-**ResoBridge AI Issue Classifier**
+**Resobridge AI Issue Classifier**
 AI model that classifies hostel maintenance images into categories like carpentry, electrical, or plumbing.
 It also detects and rejects images irrelevant to the complaint submitted.
 This is done to prevent abuse of the Image Upload feature
