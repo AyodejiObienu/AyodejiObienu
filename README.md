@@ -1,6 +1,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=AyodejiObienu)
 <h1 align="center">
-Hi 👋, I'm Obienu Baubajisos Ayodeji
+Hey there🥂, I'm Obienu Baubajisos Ayodeji
 </h1>
 
 <p align="center">
