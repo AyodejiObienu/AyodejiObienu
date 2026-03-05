@@ -1,4 +1,1 @@
-<div align="center"> 
-  <p>Visitors</p>
-  <img src="https://profile-counter.glitch.me/AyodejiObienu/count.svg" />
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=AyodejiObienu)
